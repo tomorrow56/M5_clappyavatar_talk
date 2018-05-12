@@ -2,4 +2,4 @@
 
 Clapping toy Avator for M5Stack
 
-https://youtu.be/AsLF--dSwdY
+[![Clapping toy avatar for M5Stack](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=AsLF--dSwdY)
