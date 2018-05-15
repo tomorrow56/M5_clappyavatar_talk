@@ -1,4 +1,4 @@
-# M5_clappyavator_talk
+# M5_clappyavatar_talk
 
 Clapping toy Avator for M5Stack
 
