@@ -15,5 +15,5 @@ http://blog-yama.a-quest.com/?eid=970191
 # M5Stack-SD-Updater
 https://macsbug.wordpress.com/2018/03/12/m5stack-sd-updater/
 
-# Special thanks! M5Stck Avatar
+# Special thanks! M5Stack Avatar
 https://twitter.com/meganetaaan/status/982258576361078784
