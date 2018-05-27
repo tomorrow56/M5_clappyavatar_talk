@@ -9,6 +9,9 @@ To use sample sketch, please see below,
 ### AquesTalk pico for ESP32
 https://www.a-quest.com/download.html#a-etc
 
+###ESP32で音声合成(AquesTalk pico for ESP32)
+http://blog-yama.a-quest.com/?eid=970188
+
 ### AquesTalk-ESPを簡単に使うクラス(プログラム)
 http://blog-yama.a-quest.com/?eid=970191
 
